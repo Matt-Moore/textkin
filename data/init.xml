@@ -1,0 +1,38 @@
+<?xml version= "1.0"?>
+<init>
+	<containers>
+		<container id="container1">
+			<item>key1</item>
+			<item>container2</item>
+		</container>
+		<container id="container2">
+			<item>item1</item>
+		</container>
+		<container id="container3">
+			<item>item2</item>
+			<item>item3</item>
+			<item>item4</item>
+		</container>
+		<container id="container4">
+			<item>key3</item>
+		</container>
+	</containers>
+	<rooms>
+		<room id="0">
+			<item>container1</item>
+			<item>container5</item>
+			<item>key2</item>
+			<item>key1</item>
+			</room>
+	</rooms>
+</init>
+
+
+
+
+
+
+
+
+
+

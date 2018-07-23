@@ -1,0 +1,18 @@
+<?xml version= "1.0"?>
+<items>
+	<item id="2305-hall23n">
+		<name>Apartment Door</name>
+		<description>It's an ordinary, wooden door.</description>
+		<locks locked="true">
+			<key id="fancykey"></key>
+		</locks>
+		<rooms>
+			<room id="aptroom2305" direction="west"></room>
+			<room id="apthall23n" direction="east"></room>
+		</rooms>
+	</item>
+
+
+
+
+</items>

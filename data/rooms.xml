@@ -1,0 +1,28 @@
+<?xml version= "1.0"?>
+<rooms>
+	<room id="0">
+		<name>Apartment 2305</name>
+		<description>that you are standing in a small bachelor apartment. It is empty, except for a sole bureau sitting in one corner of the room.</description>
+		<inventory>
+			<container id="aptroom2305bureau"></container>
+		</inventory>
+	</room>
+	<room id="1">
+		<name>Floor 23 North</name>
+		<description>you're in a hallway which stretches to the North and South. To the North, the hallway turns left; at the South end is a door to the stairwell. Several nondescript doors line each wall, but the door you're infront of, is room 2305.</description>
+		<inventory>
+		</inventory>
+	</room>
+	<room id="2">
+		<name>Floor 23 Elevators</name>
+		<description>you're in a hallway which stretches to the North and South. To the North, the hallway turns left; at the South end is a door to the stairwell. Several nondescript doors line each wall, but the door you're infront of, is room 2305.</description>
+		<inventory>
+		</inventory>
+	</room>
+	<room id="3">
+		<name>Floor 23 South</name>
+		<description>you're in a hallway which stretches to the North and South. To the North, the hallway turns left; at the South end is a door to the stairwell. Several nondescript doors line each wall, but the door you're infront of, is room 2305.</description>
+		<inventory>
+		</inventory>
+	</room>
+</rooms>

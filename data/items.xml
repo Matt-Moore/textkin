@@ -1,0 +1,34 @@
+<?xml version= "1.0"?>
+<items>
+	<weapons>
+		<weapon id="w001">
+			<name>Wooden Sword</name>
+			<stats>
+				<attack>1</attack>
+				<weight>1</weight>
+			</stats>
+		</weapon>
+		<weapon id="w002">
+			<name>Big Wooden Sword</name>
+			<stats>
+				<attack>2</attack>
+				<weight>2</weight>
+			</stats>
+		</weapon>
+	</weapons>
+	
+	<armour>
+		<armour id="ah001">
+			<name>Hat</name>
+			<stats>
+				<ac>1</ac>
+				<weight>1</weight>
+				<slot>head</slot>
+			</stats>
+		</armour>
+			
+	
+	</armour>
+
+
+</items>

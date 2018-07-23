@@ -1,0 +1,29 @@
+<?xml version= "1.0"?>
+<containers>
+	<container id="aptroom2305bureau">
+		<name>Bureau</name>
+		<desc>a free-standing dresser, made of wood and has 6 drawers.</desc>
+		<flags>
+			<movable>False</movable>
+		</flags>
+		<inventory>
+			<item id="fancykey"></item>
+			<item id="blankkey"></item>
+			<container id="boxofcards"></container>
+		</inventory>
+	</container>
+	<container id="boxofcards">
+		<name>Box of Cards</name>
+		<desc>a small cardboard box, for holding a deck of playing cards.</desc>
+		<flags>
+			<movable>True</movable>
+		</flags>
+		<inventory>
+			<item id="deckofcards"></item>
+		</inventory>
+	</container>
+
+
+
+
+</containers>
