@@ -1,0 +1,25 @@
+<?xml version= "1.0"?>
+<monsters>
+	<monster id="m001">
+		<name>Bunny</name>
+		<stats>
+			<hp>2</hp>
+			<attack>1</attack>
+			<treasure>1</treasure>
+		</stats>
+
+	</monster>
+	<monster id="m002">
+		<name>Goblin</name>
+		<stats>
+			<hp>5</hp>
+			<attack>3</attack>
+			<treasure>1</treasure>
+			<level>1</level>
+			<aggro>true</aggro>
+		</stats>
+
+	</monster>
+
+
+</monsters>

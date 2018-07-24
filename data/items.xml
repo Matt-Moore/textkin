@@ -26,6 +26,14 @@
 				<slot>head</slot>
 			</stats>
 		</armour>
+		<armour id="ah002">
+			<name>Helm</name>
+			<stats>
+				<ac>2</ac>
+				<weight>2</weight>
+				<slot>head</slot>
+			</stats>
+		</armour>
 			
 	
 	</armour>
